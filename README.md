@@ -8,7 +8,7 @@ The model is trained using a mixed dataset from **ADNI** (Alzheimer's Disease Ne
 1. **Phase 1:** Training the model with a frozen backbone (MobileNetV2).
 2. **Phase 2:** Fine-tuning the entire model.
 
-##Progression and challenges
+## Progression and challenges
 To tackle this problem of AD Disease progression multi class classification we first did a thorough and deep research within this space coming across multiple papers we came across Vision transformers being used in this field,
 We analyzed 2 papers published in 2025
 

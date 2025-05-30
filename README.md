@@ -1,4 +1,6 @@
 ﻿# Alzheimer's Disease Detection Model with Vision Transformer (ViT) Head
+ ![image](https://github.com/user-attachments/assets/38044520-49da-4301-bdb1-74a1a2199e27)
+
 
 ## Overview
 
